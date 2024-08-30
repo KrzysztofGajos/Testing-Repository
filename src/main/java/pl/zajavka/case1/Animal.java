@@ -5,4 +5,8 @@ public abstract class Animal {
     protected String whatIsYourName() {
         return "I don't have any";
     }
+
+    public static void main(String[] args) {
+
+    }
 }
